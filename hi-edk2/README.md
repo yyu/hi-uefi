@@ -1,6 +1,6 @@
 [EDK2 phases](EDK2%20phases.png)
 
-[EDK2 types of debugging.](EDK2%20types%20of%20debugging.png)
+[EDK2 types of debugging](EDK2%20types%20of%20debugging.png)
 
 [EDK2 GreenH](EDK2%20GreenH.png)
 
